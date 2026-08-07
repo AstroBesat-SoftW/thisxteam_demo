@@ -2,6 +2,8 @@ TeamUpp - PHP Sosyal Ag / Baglanti Uygulamasi
 ================================================
 <img width="1896" height="912" alt="image" src="https://github.com/user-attachments/assets/99f180b6-091e-45e7-b4b1-3be8958e8f4d" />
 
+not: bazı kodlar eksik yüklenmiştir. sebebi dıştan erişimi engellemek
+v1.9
 BU NEDIR?
 ---------
 Login/kayit, kesif (explore), profil, baglanti istegi gonderme-kabul etme
